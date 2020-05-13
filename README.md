@@ -1,7 +1,7 @@
 ## angular2-seed
 
 A simple starter project demonstrating the basic concepts of Angular 2.
-
+Some test changes
 
 ### Usage
 - Clone or fork this repository
